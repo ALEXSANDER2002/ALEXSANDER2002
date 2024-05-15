@@ -7,7 +7,7 @@
 
 <!-- Presentation -->
 <p>
-  Oi 👋🏻, Eu me chamo Igor! Sou graduando em Sistemas de Informação.
+  Oi 👋🏻, Eu me chamo ALEX! Sou graduando em Engenahria da Computação.
 
   - 👾 Atualmente estou no 3° período, cursando pela UNIFESSPA.
 </p>
