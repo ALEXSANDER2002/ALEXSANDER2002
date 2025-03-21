@@ -73,7 +73,8 @@ $ Sempre em busca de inovações na área da computação \o/
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALEXSANDER2002&theme=tokyonight&hide_border=false)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ALEXSANDER2002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)
+
   
   <img src="https://github-profile-trophy.vercel.app/?username=ALEXSANDER2002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
   
