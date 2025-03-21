@@ -29,7 +29,7 @@
 - Idade: 22 ANOS
 ! Localização: MARABÁ - PA
 # Universidade: UNIFESSPA
-@@ Engenharia da Computação - 3° Período @@
+@@ Engenharia da Computação - 5° Período @@
 
 $ Apaixonado por futebol, animes, filmes e jogos
 $ Desenvolvo projetos em React Native, Next.js e Node.js
