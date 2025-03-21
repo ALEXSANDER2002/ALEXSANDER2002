@@ -1,76 +1,127 @@
-<!-- título -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello, World!</h1></summary>
-  </ul>
-</div>
+# 🌟 BEM-VINDO AO UNIVERSO DO ALEX 🌟
 
-<!-- Presentation -->
-<p>
-  Oi 👋🏻, Eu me chamo ALEX! Sou graduando em Engenharia da Computação.
+<div align="center">
+  
+  ![Matrix Header](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTgxNjF3M3kyMzd5a283aDl3aXQxZm5wb2MyZDZpZG15MXF6dW45bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="150">
 
-  - 👾 Atualmente estou no 3° período, cursando pela UNIFESSPA.
-</p>
+  # ALEX - ENGENHARIA DA COMPUTAÇÃO
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=6000&pause=1000&color=33FF33&center=true&vCenter=true&random=false&width=500&lines=DESENVOLVEDOR+FULL+STACK;UNIFESSPA+-+3%C2%B0+PERÍODO;MARABÁ+-+PARÁ;REACT+NATIVE+%7C+NEXT.JS+%7C+NODE.JS)](https://git.io/typing-svg)
 
-<!-- Dropdown -->
-<details>
-  <summary>🧑🏻‍💻 Sobre mim</summary>
-
-  - 💬 Possuo 19 anos, sou natural de Rondon do Pará, mas atualmente resido em Marabá onde curso Sistemas de Informação pela UNIFESSPA (Universidade Federal do Sul e Sudeste do Pará). Tenho contato com diversas linguagens de programação, dentre elas: Java, JavaScript, Python, Swift, C.
-
-  - 🎮 Sou um amante de futebol, animes, filmes e jogos. Admirador das diversas tecnologias existentes, procurando sempre me manter atualizado sobre as diversas criações que surgem diariamente. \o/
-</details>
-
-<!-- Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/igor-santos-b70b35271">
+  <a href="https://www.linkedin.com/in/alexsander2002">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/igorsxntos?igsh=MW4xNWJkdGduNzBsbQ==">
+  <a href="https://github.com/ALEXSANDER2002">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  
+</div>
+
+## 👾 QUEM SOU EU
+
+<img align="right" height="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1jOG90dWNwMGcwYjNta2NvNG02aTZmaTM0cG93ZHF5eDY5a3FzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO8sDJQB8LXBS/giphy.gif">
+
+```diff
+@@ Informações Pessoais @@
++ Nome: ALEXSANDER
+- Idade: 22 ANOS
+! Localização: MARABÁ - PA
+# Universidade: UNIFESSPA
+@@ Engenharia da Computação - 3° Período @@
+
+$ Apaixonado por futebol, animes, filmes e jogos
+$ Desenvolvo projetos em React Native, Next.js e Node.js
+$ Sempre em busca de inovações na área da computação \o/
+```
+
+<br>
+
+## 🚀 MINHAS HABILIDADES
+
+<div align="center">
+  
+  <h3>Linguagens de Programação</h3>
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  
+  <h3>Ferramentas & Frameworks</h3>
+  
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  
+</div>
+
+## 📊 ESTATÍSTICAS DO GITHUB
+
+<div align="center">
+  <a href="https://github.com/ALEXSANDER2002">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALEXSANDER2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXSANDER2002&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Languages">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALEXSANDER2002&theme=tokyonight&hide_border=false)
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=ALEXSANDER2002&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
+  
+</div>
+
+## 🔥 PROJETOS EM DESTAQUE
+
+<div align="center">
+  
+  <a href="https://github.com/ALEXSANDER2002/projeto-ru">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALEXSANDER2002&repo=projeto-ru&theme=tokyonight" alt="Sistema RU">
+  </a>
+  <a href="https://github.com/ALEXSANDER2002/projeto-canaa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALEXSANDER2002&repo=projeto-canaa&theme=tokyonight" alt="Turismo Canaã">
+  </a>
+  
+</div>
+
+## 🎮 DIVERSÃO E INTERAÇÃO
+
+<div align="center">
+  
+  <h3>Jogo da Cobrinha</h3>
+  <a href="https://ALEXSANDER2002.github.io/projeto-canaa/snake_game.html">
+    <img src="https://img.shields.io/badge/JOGAR_AGORA-33FF33?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE3LDEwLjVWN0ExLDEgMCAwLDAgMTYsNkgxNVYzQTEsMSAwIDAsMCAxNCwySDEwQTEsMSAwIDAsMCA5LDNWNkg4QTEsMSAwIDAsMCA3LDdWMTAuNUw1LjUsMTJMNywxMy41VjE3QTEsMSAwIDAsMCA4LDE4SDlWMjFBMSwxIDAsMCAwIDEwLDIySDE0QTEsMSAwIDAsMCAxNSwyMVYxOEgxNkExLDEgMCAwLDAgMTcsMTdWMTMuNUwxOC41LDEyTDE3LDEwLjVNMTIsMTVBMSwxIDAsMCwxIDExLDE0QTEsMSAwIDAsMSAxMiwxM0ExLDEgMCAwLDEgMTMsMTRBMSwxIDAsMCwxIDEyLDE1WiIgLz48L3N2Zz4=" alt="Jogo da Cobrinha">
+  </a>
+  
+  <h3>Contador de Visitantes</h3>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/ALEXSANDER2002/count.svg)
+  
+</div>
+
+<div align="center">
+  
+  ### 📫 ENTRE EM CONTATO
+  
+  <a href="mailto:alexsander@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/alexsander/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:igorsantosigor272@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://t.me/igorsxntos">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
-
-<!-- GithubStats -->
-#### 🎯 Estatísticas
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=correasouza&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=29&locale=pt-br&rank_icon=github" alt="GitHub Stats">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correasouza&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut" alt="Top Languages">
-</div>
-
-<!-- GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1jOG90dWNwMGcwYjNta2NvNG02aTZmaTM0cG93ZHF5eDY5a3FzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SO8sDJQB8LXBS/giphy.gif" alt="Imagem">
-</p>
-
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-<div align="center">
-  <div>
-    <h3>Programming Languages</h3>
-    <img alt="Java" height="28" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img alt="Js" height="28" width="90" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img alt="Python" height="28" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="Swift" height="28" width="90" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-    <img alt="C" height="28" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  </div>
   
-  <div>
-    <h3>Tools & Frameworks</h3>
-    <img alt="Node.js" height="28" width="90" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img alt="React Native" height="28" width="90" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="Git" height="28" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img alt="Colab" height="28" width="90" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-    <img alt="IntelliJ IDEA" height="28" width="90" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-    <img alt="Xcode" height="28" width="90" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-  </div>
 </div>
 
-## 🐍 Jogo da Cobrinha
-Clique [aqui](https://seu-usuario.github.io/seu-repositorio/snake_game.html) para jogar o jogo da cobrinha!
+<div align="center">
+  
+  ![Wave Footer](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+  
+</div>
